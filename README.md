@@ -42,12 +42,7 @@ A beautifully designed and responsive **Restaurant Frontend Website** built to s
 
 ---
 
-## 📸 Preview
 
-![Restaurant Website Preview](https://fathima-nawrin.github.io/frontend-restaurent/preview-image.png)
-*(You can replace this link with an actual screenshot of your site.)*
-
----
 
 ## 💡 Future Improvements
 
