@@ -44,14 +44,6 @@ A beautifully designed and responsive **Restaurant Frontend Website** built to s
 
 
 
-## 💡 Future Improvements
-
-* Add a backend for online reservations
-* Include user reviews and feedback
-* Add animations for better user engagement
-
----
-
 ## 👩‍💻 Developer
 
 **Fathima Nawrin**
